@@ -544,9 +544,6 @@ This tool was built with gratitude for the brave work of:
 - **The Bellingcat community** for pioneering open source investigation methods
 - **Digital security experts** protecting researchers and activists
 
-### Dedicated To
-
-The memory of **Mahsa (Jina) Amini** and all those who have lost their lives in the struggle for freedom in Iran.
 
 ---
 
